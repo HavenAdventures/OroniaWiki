@@ -1,0 +1,34 @@
+---
+title: Places
+description: 
+published: true
+date: 2024-05-02T15:25:08.786Z
+tags: 
+editor: markdown
+dateCreated: 2024-04-29T21:04:15.766Z
+---
+
+- # [Inversia](/Places/Inversia) (Country)
+  -   ## [Ros](/Places/Inversia/Ros) (City)
+       - ### [The Honey Docks](/Places/Inversia/Ros/TheHoneyDocks)
+           - #### [The Honeycomb Exchange](/Places/Inversia/Ros/TheHoneyDocks/TheHoneycombExchange)
+               - ##### [Feather's Quill](/Places/Inversia/Ros/TheHoneyDocks/TheHoneycombExchange/FeathersQuill)
+               - ##### [The Arcane Emporium](/Places/Inversia/Ros/TheHoneyDocks/TheHoneycombExchange/TheArcaneEmporium)
+               - ##### [Hammer & Anvil](/Places/Inversia/Ros/TheHoneyDocks/TheHoneycombExchange/HammerAnvil)
+               - ##### Mariner's Bounty
+               - ##### The Verdant Corner
+       - ### Hearth District    
+           - #### The Wandering Wyvern
+           - #### [The Golden Citadel](/Places/Inversia/Ros/TheGoldenCitadel)
+       - ### The Shadow Water
+           - #### [The Glimmering Mirth](/Places/Inversia/Ros/TheShadowWater/TheGlimmeringMirth)
+
+# [Knarencian Empire](/Places/KnarencianEmpire) (Country)
+- ## [Lourinhem](/Places/KnarencianEmpire/Lourinhem) (City)
+  - ### Artisan Crossing
+  - ### Canary's Rest
+  - ### [Ember Reach](/Places/KnarencianEmpire/Lourinhem/EmberReach)
+    - #### [The Drifting Drake](/Places/KnarencianEmpire/Lourinhem/EmberReach/TheDriftingDrake)
+  - ### Freehold Vale
+  - ### The Foothills
+  - ### Truesilver Hold
