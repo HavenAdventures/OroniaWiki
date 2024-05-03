@@ -2,7 +2,7 @@
 title: The Golden Guardian's Task
 description: 
 published: true
-date: 2024-05-03T15:19:23.717Z
+date: 2024-05-03T15:28:50.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-03T15:19:23.717Z
@@ -10,10 +10,10 @@ dateCreated: 2024-05-03T15:19:23.717Z
 
 # Description
 
-Bandits have set up camp on the outskirts of Ros. Deal with the problem before they begin harming citizens.
+Bandits have set up camp on the outskirts of [Ros](/Places/Inversia/Ros). Deal with the problem before they begin harming citizens.
 
 # People
-- Quest Giver: Sergeant Thoren Oakshield
+- Quest Giver: [Thoren Oakshield](/People/ThorenOakshield)
 
 # Map
 ![goldenguardiantask.jpg](/maps/goldenguardiantask.jpg)
