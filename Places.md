@@ -2,7 +2,7 @@
 title: Places
 description: 
 published: true
-date: 2024-05-03T00:45:21.465Z
+date: 2024-05-03T01:01:04.401Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T21:04:15.766Z
@@ -15,7 +15,7 @@ dateCreated: 2024-04-29T21:04:15.766Z
                - ##### [Feather's Quill](/Places/Inversia/Ros/TheHoneyDocks/TheHoneycombExchange/FeathersQuill)
                - ##### [The Arcane Emporium](/Places/Inversia/Ros/TheHoneyDocks/TheHoneycombExchange/TheArcaneEmporium)
                - ##### [Hammer & Anvil](/Places/Inversia/Ros/TheHoneyDocks/TheHoneycombExchange/HammerAnvil)
-               - ##### Mariner's Bounty
+               - ##### [Mariner's Bounty](/Places/Inversia/Ros/TheHoneyDocks/TheHoneycombExchange/MarinersBounty)
                - ##### The Verdant Corner
        - ### Hearth District    
            - #### [The Wandering Wyvern](/Places/Inversia/Ros/TheHearthDistrict/TheWanderingWyvern)
