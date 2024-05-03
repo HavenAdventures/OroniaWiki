@@ -2,7 +2,7 @@
 title: Places
 description: 
 published: true
-date: 2024-05-03T00:45:13.028Z
+date: 2024-05-03T00:45:21.465Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T21:04:15.766Z
@@ -18,7 +18,7 @@ dateCreated: 2024-04-29T21:04:15.766Z
                - ##### Mariner's Bounty
                - ##### The Verdant Corner
        - ### Hearth District    
-           - #### [TheWanderingWyvern](/Places/Inversia/Ros/TheHearthDistrict/TheWanderingWyvern)
+           - #### [The Wandering Wyvern](/Places/Inversia/Ros/TheHearthDistrict/TheWanderingWyvern)
            - #### [The Golden Citadel](/Places/Inversia/Ros/TheGoldenCitadel)
        - ### The Shadow Water
            - #### [The Glimmering Mirth](/Places/Inversia/Ros/TheShadowWater/TheGlimmeringMirth)
