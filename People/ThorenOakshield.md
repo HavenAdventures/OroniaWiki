@@ -2,7 +2,7 @@
 title: Thoren Oakshield
 description: 
 published: true
-date: 2024-05-03T15:26:14.587Z
+date: 2024-05-03T15:26:30.955Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-03T15:26:14.587Z
@@ -14,7 +14,7 @@ dateCreated: 2024-05-03T15:26:14.587Z
 
 # Image
 ![thoren_oakshield.webp](/npcs/thoren_oakshield.webp)# Header
-Your content here
+
 
 # Quests
 
