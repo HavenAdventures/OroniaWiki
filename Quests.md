@@ -2,7 +2,7 @@
 title: Quests
 description: 
 published: true
-date: 2024-05-03T14:08:56.216Z
+date: 2024-05-03T15:20:00.535Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-03T14:08:56.216Z
@@ -11,7 +11,7 @@ dateCreated: 2024-05-03T14:08:56.216Z
 # Main party (Y'all need a name)
 ## Completed
 - The Verdant Circle's Task
-- The Golden Guardian's Task
+- [The Golden Guardian's Task](/Quests/TheGoldenGuardiansTask)
 - The Helmbreaker
 
 ## In Progress
