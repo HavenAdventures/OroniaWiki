@@ -2,7 +2,7 @@
 title: The Golden Guardian's Task
 description: 
 published: true
-date: 2024-05-04T15:53:20.668Z
+date: 2024-05-04T15:53:28.944Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-03T15:19:23.717Z
@@ -22,7 +22,7 @@ Bandits have set up camp on the outskirts of [Ros](/Places/Inversia/Ros). Deal w
 
 - **Combat Encounter:** The party tracks the bandits to their hideout in a forested area outside Ros. The bandits are on high alert, and the party must battle their way through. When cornered, the bandit captain unleashes the cave troll on the unsuspecting party.
 
-    - [Half Goblin Bandit](/Monsters/HalfGoblinBandit) CR 2 - x5
+    - [Half Goblin Bandit](/Monsters/HalfGoblinBandit) CR 2 - x4
     - [Half Goblin Bandit Captain](/Monsters/HalfGoblinBanditCaptain) CR 3 - x1
     - Domesticated Cave Troll CR 4 - x1
    
