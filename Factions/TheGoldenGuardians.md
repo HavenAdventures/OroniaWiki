@@ -2,7 +2,7 @@
 title: The Golden Guardians
 description: 
 published: true
-date: 2024-05-07T14:58:15.566Z
+date: 2024-05-07T15:01:03.828Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-07T14:58:15.565Z
@@ -10,7 +10,7 @@ dateCreated: 2024-05-07T14:58:15.565Z
 
 # Description
 
-The Golden Guardians are a prominent faction dedicated to upholding the law and maintaining order within Ros, while actively seeking to root out corruption and injustice. This group of dedicated knights and warriors are fiercely loyal to the Kingdom of Inversia, driven by their sense of duty and a strong desire to protect the innocent from harm. They serve as town guard, kingdom military, and kingsguard.
+The Golden Guardians are a prominent faction dedicated to upholding the law and maintaining order within [Ros](/Places/Inversia/Ros), while actively seeking to root out corruption and injustice. This group of dedicated knights and warriors are fiercely loyal to the Kingdom of Inversia, driven by their sense of duty and a strong desire to protect the innocent from harm. They serve as town guard, kingdom military, and kingsguard.
 
 # People
 
