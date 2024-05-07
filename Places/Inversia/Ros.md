@@ -2,7 +2,7 @@
 title: Ros
 description: 
 published: true
-date: 2024-05-01T18:02:43.055Z
+date: 2024-05-07T15:02:29.712Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T16:07:23.528Z
@@ -18,7 +18,7 @@ Capital city of [Inversia](/Places/Inversia).
 - The Crimson Hand
 - The Order of the Silver Eye
 - The Shadow Guild
-- The Golden Guardians
+- [The Golden Guardians](/Factions/TheGoldenGuardians)
 - The Azure Dawn
 - The Verdant Circle
 
