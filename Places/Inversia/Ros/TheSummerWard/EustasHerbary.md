@@ -2,14 +2,14 @@
 title: Eustas' Herbary
 description: 
 published: true
-date: 2024-09-05T20:27:10.661Z
+date: 2024-09-05T20:29:02.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-05T20:27:10.661Z
 ---
 
 # Description
-A quaint and charming shop nestled in the Summer Ward of Ros, just outside the city. The shop is an eclectic mix of greenery and critters, overflowing with non-magical plants, herbs, and insects. A soft, earthy fragrance fills the air, blending the scents of fresh lavender, sage, and damp soil.
+A quaint and charming shop nestled in the Summer Ward of [Ros](/Places/Inversia/Ros), just outside the city. The shop is an eclectic mix of greenery and critters, overflowing with non-magical plants, herbs, and insects. A soft, earthy fragrance fills the air, blending the scents of fresh lavender, sage, and damp soil.
 
 # Image
 ![eustasherbary.webp](/places/eustasherbary.webp)
