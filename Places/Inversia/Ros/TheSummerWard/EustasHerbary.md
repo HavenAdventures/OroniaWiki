@@ -2,7 +2,7 @@
 title: Eustas' Herbary
 description: 
 published: true
-date: 2024-09-05T20:30:17.171Z
+date: 2024-09-05T20:36:03.575Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-05T20:27:10.661Z
@@ -15,7 +15,7 @@ A quaint and charming shop nestled in the Summer Ward of [Ros](/Places/Inversia/
 ![eustasherbary.webp](/places/eustasherbary.webp)
 
 # People
-- Shopkeeper: Eustas Greenthumb
+- Shopkeeper: [Eustas Greenthumb](/People/EustasGreenthumb)
 # Current Inventory
 | **Item Name**              | **Price** | **Description**                                                                                                                                   | **Rarity**       |
 |----------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
