@@ -2,7 +2,7 @@
 title: Places
 description: 
 published: true
-date: 2024-09-01T15:18:48.273Z
+date: 2024-09-05T20:28:10.126Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-29T21:04:15.766Z
@@ -23,7 +23,7 @@ dateCreated: 2024-04-29T21:04:15.766Z
       - ### The Shadow Water
            - #### [The Glimmering Mirth](/Places/Inversia/Ros/TheShadowWater/TheGlimmeringMirth)
       - ### The Summer Ward
-           - #### Eustas' Herbery
+           - #### [Eustas' Herbary](/Places/Inversia/Ros/TheSummerWard/EustasHerbary)
 # [Knarencian Empire](/Places/KnarencianEmpire) (Country)
 - ## [Lourinhem](/Places/KnarencianEmpire/Lourinhem) (City)
   - ### Artisan Crossing
