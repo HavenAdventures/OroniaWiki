@@ -2,7 +2,7 @@
 title: The Wandering Wyvern
 description: 
 published: true
-date: 2024-09-10T18:56:58.943Z
+date: 2024-09-10T18:59:55.058Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-02T14:53:43.117Z
@@ -32,4 +32,4 @@ Anyone seeking adventure may stay here free of charge so long as they accept wor
   - Summary: The Azure Dawn has discovered references to Eldoria, an ancient city said to contain untold knowledge and artifacts. The adventurers are to locate the city and retrieve any magical artifacts.
 - **The Black Sun Uprising**
 	- Job Contact: Commander Aric Stormrider (Golden Guardians)
-	- Summary: A powerful necromancer has cast a ritual that darkened the skies over Inver, turning the city into a haven for undead creatures. The adventurers must travel to Inver, break through the undead forces, and stop the necromancer before the entire region falls under their control. The city’s defenses are failing, and time is running out.  
+	- Summary: Grim news comes from outside the city walls.  A powerful necromancer has cast a ritual that darkened the skies over Inver, turning the village into a haven for undead creatures. The adventurers must travel to Inver and support the villagers.
