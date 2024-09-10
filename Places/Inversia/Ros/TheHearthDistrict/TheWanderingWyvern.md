@@ -2,7 +2,7 @@
 title: The Wandering Wyvern
 description: 
 published: true
-date: 2024-09-10T18:59:55.058Z
+date: 2024-09-10T19:03:37.122Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-02T14:53:43.117Z
@@ -23,7 +23,7 @@ Anyone seeking adventure may stay here free of charge so long as they accept wor
 
 - **The Shellstone**
     - Job Contact: Elara Moonwhisper (Azure Dawn)
-    - Summary: A legendary artifact has surfaced near Tortia. The Azure Dawn seeks a capable party to venture there and ensure its security.
+    - Summary: A legendary artifact has surfaced near Tortira. The Azure Dawn seeks a capable party to venture there and ensure its security.
 - **The Disappearing Trade Routes**
     - Job Contact: Merrick Fenn (Wandering Wyvern)
     - Summary: Traveling merchants have mysteriously vanished along the northern trade routes. Merrick Fenn, hearing the pleas of local traders, asks the adventurers to investigate these disappearances and ensure the safety of future expeditions.
